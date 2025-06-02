@@ -25,6 +25,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# idea
+.idea
+
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
